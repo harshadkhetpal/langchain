@@ -1,3 +1,18 @@
+## 🧑‍💻 My Fork — Harshad Khetpal (DevOps / MLOps Engineer)
+
+I use this fork of LangChain to build **production-grade LLM agents and RAG systems** for enterprise use cases. Focus on reliability, observability, and cost control.
+
+### My Setup
+- Custom retrieval chains over internal Confluence, Jira, and GitHub data
+- LangSmith tracing integrated with internal observability stack (Datadog)
+- Agent architectures with tool-use for automated DevOps workflows
+- Async chains with Redis-based caching for repeated query optimization
+
+### Why I forked this
+Building custom LangChain tools for Kubernetes cluster introspection and automated runbook execution — allowing LLM agents to query cluster state and take remediation actions.
+
+---
+
 <div align="center">
   <a href="https://docs.langchain.com/oss/python/langchain/overview">
     <picture>
